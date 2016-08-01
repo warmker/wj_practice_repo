@@ -103,3 +103,8 @@ hs_err_pid*
 
 target/*
 
+/wj_demo_mq/*.iml
+/wj_demo_mq/target/*
+
+
+
